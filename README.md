@@ -156,6 +156,7 @@ F4R::decode(path_to_fit_file).records #=> Array of record Hashes
 - Documentation.
 - Support for FIT Developer Data fields.
 - Support for FIT Compressed Timestamp headers.
+- Move logging to separate gem.
 
 (PRs welcome!)
 
