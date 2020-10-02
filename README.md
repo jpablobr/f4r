@@ -2,7 +2,7 @@
 
 Simple Ruby library for encoding/decoding and editing [FIT (ANT+)](https://www.thisisant.com/developer/resources/downloads) binary files.
 
-[Library Documentation](https://rdoc.info/github/jpablobr/f4r/master)
+[Library Documentation](https://rdoc.info/github/jpablobr/f4r)
 
 ## Features
 
