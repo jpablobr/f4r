@@ -23,7 +23,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'bindata', '2.4.4'
   spec.add_dependency 'csv', '3.1.2'
   spec.add_development_dependency 'bundler', '~> 2.0'
-  spec.add_development_dependency 'rake', '~> 10.0'
+  spec.add_development_dependency 'rake', '~> 12.3.3'
   spec.add_development_dependency 'minitest', '~> 5.0'
   spec.add_development_dependency 'minitest-autotest', '~> 1.1.1'
   spec.add_development_dependency 'minitest-line', '~> 0.6.5'
