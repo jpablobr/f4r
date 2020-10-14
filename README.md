@@ -14,7 +14,7 @@ Simple Ruby library for encoding/decoding and editing [FIT (ANT+)](https://www.t
 
 - Encoder allows to build FIT binary files from scratch and also from a source/template FIT file to serve as a reference to help preserve/replicate a specific binary structure. This is important given that sometimes, even if the resulting FIT file is valid, it might not be for specific parsers such as Garmin/TrainingPeaks, etc... So preserving the structure, size or meta-data might be important in certain scenarios.
 
-## F4R-CLI (TODO)
+## F4R-CLI
 
 F4R-CLI is a command line tool to help with the interpretation (conversion, scaling, editing, import/export) of the decoded/encoded FIT files. As F4R's main aim is to be (and stay) as simple and minimal as possible, it might not be enough for getting usable human readable (or interpretable) data, so F4R-CLI is meant to help with that and also as an example for other apps.
 
