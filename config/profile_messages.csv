@@ -308,6 +308,7 @@ activity,,,,,,,,,,,,,,,
 ,4,event_type,event_type,,,,,,,,,,,,1
 ,5,local_timestamp,local_date_time,,,,,,,,,,"timestamp epoch expressed in local time, used to convert activity timestamps to local time ",,1
 ,6,event_group,uint8,,,,,,,,,,,,1
+,7,undocumented_field_7,uint8,,,,,,,,,,,,1
 ,,,,,,,,,,,,,,,
 session,,,,,,,,,,,,,,,
 ,254,message_index,message_index,,,,,,,,,,Selected bit is set for the current session.,,1
